@@ -40,6 +40,8 @@
     ],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "@typescript-eslint/ban-types": "off",
+    "no-unused-expression": "off",
     "react/jsx-filename-extension": [
       1,
       {
