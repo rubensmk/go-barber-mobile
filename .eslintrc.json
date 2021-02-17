@@ -30,6 +30,7 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "import/no-duplicates": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
